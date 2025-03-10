@@ -35,7 +35,8 @@ Acest proiect implementează o **barieră automată** controlată de un **servom
 2️⃣ **Dacă un obiect este detectat (sub 20 cm):**  
    - LED-ul **roșu se stinge**, LED-ul **galben se aprinde**.  
    - Bariera **se ridică treptat** cu servomotorul.  
-   - LED-ul **galben se stinge**, LED-ul **verde se aprinde**.  
+   - LED-ul **galben se stinge**, LED-ul **verde se aprinde**.
+     
 3️⃣ **După 5 secunde:**  
    - LED-ul **verde se stinge**, LED-ul **galben se reaprinde**.  
    - Bariera **coboară treptat**.  
